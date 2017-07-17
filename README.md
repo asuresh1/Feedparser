@@ -1,4 +1,4 @@
 Pset7
 =====
 
-Feedparser
+This project contains python scripts for the implementation of a Feedparser.
